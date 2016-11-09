@@ -1,0 +1,4374 @@
+
+.container{
+	position:absolute;
+	width:100%;
+	height:125%;
+	top:0;
+	left:0;
+	background-color: black;
+
+}
+
+.box{
+	position:absolute;
+	width:30%;
+	height:30%;
+	top:35%;
+	left:35%;
+	background-color: white;
+}
+
+p {
+	color: white;
+	font-size: 14pt;
+	padding: 15px;
+}
+
+
+
+@media (max-width: 1400px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: visible;
+	}
+}
+
+@media (max-width: 1375px) { 
+		#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: visible;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+@media (max-width: 1350px) { 
+		#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: visible;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1325px) { 
+		#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: visible;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1300px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: visible;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1275px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: visible;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1250px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: visible;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1225px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: visible;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1200px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: visible;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1175px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: visible;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1150px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: visible;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1125px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: visible;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1100px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: visible;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1075px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: visible;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1050px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: visible;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1250px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: visible;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1025px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: visible;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 1000px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: visible;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 975px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: visible;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}}
+@media (max-width: 950px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: visible;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 925px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: visible;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 900px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: visible;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 875px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: visible;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 850px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: visible;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 825px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: visible;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 800px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: visible;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 775px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: visible;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 750px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: visible;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 725px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: visible;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 700px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: visible;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 675px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: visible;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 650px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: visible;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+@media (max-width: 625px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: visible;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 600px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: visible;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 575px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: visible;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 550px) { 
+	#line1 {
+		visibility: hidden;
+	}
+	#line2 {
+		visibility: visible;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 525px) { 
+	#line1 {
+		visibility: visible;
+	}
+	#line2 {
+		visibility: hidden;
+	}
+	#line3 {
+		visibility: hidden;
+	}
+	#line4 {
+		visibility: hidden;
+	}
+	#line5 {
+		visibility: hidden;
+	}
+	#line6 {
+		visibility: hidden;
+	}
+	#line7 {
+		visibility: hidden;
+	}
+	#line8 {
+		visibility: hidden;
+	}
+	#line9 {
+		visibility: hidden;
+	}
+	#line10 {
+		visibility: hidden;
+	}
+	#line11 {
+		visibility: hidden;
+	}
+	#line12 {
+		visibility: hidden;
+	}
+	#line13 {
+		visibility: hidden;
+	}
+	#line14 {
+		visibility: hidden;
+	}
+	#line15 {
+		visibility: hidden;
+	}
+	#line16 {
+		visibility: hidden;
+	}
+	#line17 {
+		visibility: hidden;
+	}
+	#line18 {
+		visibility: hidden;
+	}
+	#line19 {
+		visibility: hidden;
+	}
+	#line20 {
+		visibility: hidden;
+	}
+	#line21 {
+		visibility: hidden;
+	}
+	#line22 {
+		visibility: hidden;
+	}
+	#line23 {
+		visibility: hidden;
+	}
+	#line24 {
+		visibility: hidden;
+	}
+	#line25 {
+		visibility: hidden;
+	}
+	#line26 {
+		visibility: hidden;
+	}
+	#line27 {
+		visibility: hidden;
+	}
+	#line28 {
+		visibility: hidden;
+	}
+	#line29 {
+		visibility: hidden;
+	}
+	#line30 {
+		visibility: hidden;
+	}
+	#line31 {
+		visibility: hidden;
+	}
+	#line32 {
+		visibility: hidden;
+	}
+	#line33 {
+		visibility: hidden;
+	}
+	#line34 {
+		visibility: hidden;
+	}
+	#line35 {
+		visibility: hidden;
+	}
+	#line36 {
+		visibility: hidden;
+	}
+	#line37 {
+		visibility: hidden;
+	}
+}
+
+@media (max-width: 500px) { 
+	.box{
+	}
+}
+
+@media (max-width: 475px) { 
+	.box{
+	}
+}
+
+@media (max-width: 450px) { 
+	.box{
+	}
+}
+
+@media (max-width: 425px) { 
+	.box{
+	}
+}
+
+@media (max-width: 400px) { 
+	.box{
+	}
+}
